@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login UI</string>
+
+    <string name="root_tespit_edildi">Root Detected</string>
+    <string name="root_icerigi">To maintain your security and application integrity, this app does not work on devices with root access. Please unroot your device and try again.</string>
+    <string name="cihaz_bir_emulator_uzerinde_calisiyor">Running on an Emulator</string>
+    <string name="emulator_icerigi">This app is designed to run on real devices. Emulator usage has been detected. Please run the app on a real device and try again.</string>
+    <string name="uygulamayi_kapat">Close the application</string>
+
+    <string name="congratulations">Congratulations!</string>
+    <string name="press_to_restart">Press to restart</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">Or</string>
+
+    <string name="welcome_back">Welcome back!</string>
+    <string name="please_log_in">Please, Log In.</string>
+    <string name="ccontinue">Continue</string>
+    <string name="create_an_account">Create an Account</string>
+
+    <string name="lets_start_codding">Let\'s start codding!</string>
+    <string name="create_a_beautiful_login_app">Create a beautiful Login App using\nKotlin, Jetpack Compose and Material3</string>
+    <string name="next">Next</string>
+</resources>
