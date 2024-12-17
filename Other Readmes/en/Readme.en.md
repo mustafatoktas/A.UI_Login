@@ -50,14 +50,14 @@ This application is the UI design of a login application where users can sign in
 
 ## Screenshots
 
-Screenshots are taken from the `v1.0.0` version of the application. The interface may be fully or partially changed in newer versions.
+Screenshots are taken from the `v1.0.0` version of the application. The UI may be fully or partially changed in newer versions.
 
 <details>
   <summary>Images</summary>
   
-  | ![Screenshot 1](../../Readme%20Resources/Ekran%20Görüntüleri/1.jpg) | ![Screenshot 2](../../Readme%20Resources/Ekran%20Görüntüleri/1.jpg) |
+  | ![Screenshot 1](../../Readme%20Resources/Ekran%20Görüntüleri/1.jpg) | ![Screenshot 2](../../Readme%20Resources/Ekran%20Görüntüleri/2.jpg) |
   | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-  | ![Screenshot 3](../../Readme%20Resources/Ekran%20Görüntüleri/1.jpg) | ![Screenshot 4](../../Readme%20Resources/Ekran%20Görüntüleri/1.jpg) |
+  | ![Screenshot 3](../../Readme%20Resources/Ekran%20Görüntüleri/3.jpg) | ![Screenshot 4](../../Readme%20Resources/Ekran%20Görüntüleri/4.jpg) |
 
 </details>
   
